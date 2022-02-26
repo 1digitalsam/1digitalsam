@@ -1,4 +1,5 @@
-![Image](https://c.tenor.com/6aSncIN19j8AAAAC/banner.gif)
+<img align="center" width="2000" height="300" src="https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif">
+
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">I Wash 🧼 My Hands After Using The Bathroom</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/tumblr_lr2m4lYdhY1qlr140o1_500.gifv">
